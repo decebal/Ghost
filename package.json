@@ -84,7 +84,7 @@
     "@tryghost/social-urls": "0.1.25",
     "@tryghost/string": "0.1.19",
     "@tryghost/tpl": "0.1.3",
-    "@tryghost/update-check-service": "0.2.0",
+    "@tryghost/update-check-service": "0.3.4",
     "@tryghost/url-utils": "2.0.1",
     "@tryghost/validator": "0.1.3",
     "@tryghost/version": "0.1.2",
